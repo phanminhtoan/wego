@@ -197,7 +197,9 @@ img {
     margin-top: 10px;
     margin-bottom: -10px;
 }
-
+.img-fluid{
+    width: 100%;
+}
 .localHeadLine a {
     color: #003c71;
 }
